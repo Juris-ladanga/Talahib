@@ -32,7 +32,7 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/in
 https://live-faws.akamaized.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
 #EXTINF:-1 tvg-id="hits-hd" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="LOCAL 2 CHANNELS",CinemOne
-https://live-faws.akamaized.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+https://live-faws.akamaized.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd 
 
 #EXTINF:-1 tvg-id="sari-sari" tvg-logo="https://i.imgur.com/25CGN9g.png" group-title="LOCAL 2 CHANNELS",Sari-Sari
 #KODIPROP:inputstream.adaptive.license_type=clearkey
